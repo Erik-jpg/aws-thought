@@ -1,0 +1,24 @@
+{
+  "name": "aws-thought",
+  "version": "1.0.0",
+  "description": "**Title:** Create an AWS account  \r **User Stories**  \r * As a developer, I want to be able to view the management console in AWS.  \r * As a developer, I want to manage my IAM role.  \r * As a developer, I want to set up a billing alert.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erik-jpg/aws-thought.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erik-jpg/aws-thought/issues"
+  },
+  "homepage": "https://github.com/Erik-jpg/aws-thought#readme",
+  "dependencies": {
+    "aws": "^0.0.3-2",
+    "aws-cli": "^0.0.2"
+  }
+}
